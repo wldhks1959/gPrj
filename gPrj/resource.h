@@ -10,6 +10,11 @@
 #define IDR_MAINFRAME                   128
 #define IDC_BTN_UP_PARENT               1000
 #define IDC_BTN_TEST                    1001
+#define IDC_BTN_PROCESS                 1002
+#define IDC_BTN_MAKE_PATTERN            1003
+#define IDC_BTN_GET_DATA                1004
+#define IDC_BTN_GET_DATA2               1005
+#define IDC_BTN_THREAD                  1005
 
 // Next default values for new objects
 // 
